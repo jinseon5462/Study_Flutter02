@@ -37,6 +37,8 @@ linux/
 macos/
 web/
 windows/
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
 
 # Symbolication related
 app.*.symbols
